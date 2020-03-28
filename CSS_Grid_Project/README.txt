@@ -1,3 +1,0 @@
--This project I am doing from a Youtube video by Travesy Media
--It  is t help me understand CSS Grids better 
--It is to help me complete made codeyourfuture assingnments 
